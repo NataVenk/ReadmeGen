@@ -14,6 +14,7 @@ The License badge must be proptly shown. In last section "questions" , my github
 ## Mock-up
 
 image of the working page
+
 <img  scr = "./assets/images/template.png" />
 
 

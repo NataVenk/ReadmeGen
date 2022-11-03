@@ -1,7 +1,7 @@
-# ReadMe generator
+# README GENERATOR
   
    ## Description 
-   A template that creates a professional readme with information propted 
+   create a templated readme
 
    ## Table of Content
 - [Installation](#installation)
@@ -10,10 +10,10 @@
 - [License](#license)
 
   ## Installation     
-   The project utilizing inquirer
+   uses Inquirer
 
    ## Usage
-    Enter information based on propmts. Templae will present information with links to email and github. 
+    enter information based on prompts
 
 
   
@@ -25,7 +25,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Contributing
-   no
+   na
 
   ## Test  
    na
