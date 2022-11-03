@@ -1,7 +1,7 @@
-# skg
+# ReadMe generator
   
    ## Description 
-   sfgh
+   A template that creates a professional readme with information propted 
 
    ## Table of Content
 - [Installation](#installation)
@@ -10,25 +10,25 @@
 - [License](#license)
 
   ## Installation     
-   dgh
+   The project utilizing inquirer
 
    ## Usage
-    dfgh
+    Enter information based on propmts. Templae will present information with links to email and github. 
 
 
   
   ## License
-  This project is licensed under the GNU license.
+  This project is licensed under the MIT license.
    
   
 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Contributing
-   
+   no
 
   ## Test  
-   dghj
+   na
   
 
   ## Questions
