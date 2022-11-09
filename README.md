@@ -14,8 +14,13 @@ The License badge must be proptly shown. In last section "questions" , my github
 ## Mock-up
 <img src="./assets/images/template.png"/>
 
+[![Watch the video](https://youtu.be/_yL7hbfR4KU)](https://youtu.be/_yL7hbfR4KU)
 
-<a href= "./assets/ReadmeG.mov" alt ></a>
+
+
+
+
+<!-- <a href= "./assets/ReadmeG.mov" alt ></a> -->
 
    
 
